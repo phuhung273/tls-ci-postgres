@@ -1,0 +1,12 @@
+# credentials
+*.pem
+*.key
+*.req
+*.crt
+*.csr
+
+# environment variables
+.env
+.env.production
+
+node_modules
